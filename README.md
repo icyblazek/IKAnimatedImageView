@@ -8,7 +8,7 @@
 4、统一时间帧管理，支持在同一视图中，同时渲染多个相同或者不同的图片(如实现多个动态表情在同一个视图中显示)  
 5、支持调整帧率，默认60FPS  
 
-![](https://raw.githubusercontent.com/icyblazek/IKAnimatedImageView/master/demo_capture.png)
+![](https://github.com/icyblazek/IKAnimatedImageView/blob/master/demo_capture.png)
 
 ##基础使用示例：
 ```objc
