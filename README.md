@@ -88,9 +88,9 @@ pod install
 ```
 
 ##后续计划
-1、优化内存使用，提高渲染性能
-2、直接扩展NSImageView,NSImage,UIImageView,UIImage,，简化的API
-3、添加APNG（可能不会添加，貌似意义不大，虽然最近iOS Safari支持APNG了）
+1、优化内存使用，提高渲染性能  
+2、直接扩展NSImageView,NSImage,UIImageView,UIImage,，简化的API  
+3、添加APNG格式（可能不会添加，貌似意义不大，虽然最近iOS Safari支持APNG了）  
 
 ###联系
 如有建议或者疑问，欢迎Email: icyblazek@gmail.com
