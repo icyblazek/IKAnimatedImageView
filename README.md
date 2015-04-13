@@ -1,5 +1,6 @@
 # IKAnimatedImageView
 动态图片显示组件,支持GIF、Webp格式,支持iOS和OSX
+第一个Objective-C实现的Webp Animation的组件，找了一大圈，未找到（如有请告知）
 
 ##特点：  
 1、支持多种文件格式，支持GIF，WebP(支持混合模式渲染)及自定义动态图片显示(APNG计划中...)  
@@ -85,3 +86,11 @@ webp解码器需要依赖libwebp，请先安装
 cd IKAnimatedImageView
 pod install
 ```
+
+##后续计划
+1、优化内存使用，提高渲染性能
+2、直接扩展NSImageView,NSImage,UIImageView,UIImage,，简化的API
+3、添加APNG（可能不会添加，貌似意义不大，虽然最近iOS Safari支持APNG了）
+
+###联系
+如有建议或者疑问，欢迎Email: icyblazek@gmail.com
